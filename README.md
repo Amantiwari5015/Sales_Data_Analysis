@@ -158,29 +158,3 @@ Ecommerce-Sales-Analysis/
 │
 └── README.md
 ```
-
----
-
-## ▶️ How to Run
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/<your-username>/Ecommerce-Sales-Analysis.git
-   ```
-2. Download the dataset from UCI and place it in `Data/Raw/`
-3. Run `Notbook/01_Data_Cleaning_v2.ipynb` to create `clean_sales_data.csv`
-4. Import `clean_sales_data.csv` into MySQL as `online_retail_db.clean_sales_data` and run the files in `Sql/`
-5. Open `Dashboard/Sales_Dashboard.pbix` in Power BI Desktop
-
----
-
-## 👤 Author
-
-**Your Name**
-Data Analyst | Python · SQL · Power BI | Open to freelance projects
-
-- 📧 Email: amantiwari5015@gmail.com
-- 💼 LinkedIn: *add your LinkedIn link*
-- 🌐 Portfolio: *add your portfolio link*
-
-⭐ If you found this project useful, please give it a star!
